@@ -4,7 +4,7 @@ Project used to follow along with the Statistical Rethinking book by Richard McE
 
 # Setup
 
-First, follow Stan installation instruction at https://github.com/rmcelreath/rethinking/wiki/Stan-Installation
+First, follow Stan installation instruction at https://github.com/rmcelreath/rethinking?tab=readme-ov-file#installation
 
 Then install the `renv` package if you haven't already:
 
