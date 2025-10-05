@@ -1,3 +1,7 @@
+# statistical-rethinking
+
+Project used to follow along with the Statistical Rethinking book by Richard McElreath
+
 # Setup
 
 First, follow Stan installation instruction at https://github.com/rmcelreath/rethinking/wiki/Stan-Installation
