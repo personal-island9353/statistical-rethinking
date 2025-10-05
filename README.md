@@ -1,0 +1,18 @@
+# Setup
+
+First, follow Stan installation instruction at https://github.com/rmcelreath/rethinking/wiki/Stan-Installation
+
+Then install the `renv` package if you haven't already:
+
+```r
+install.packages("renv")
+```
+
+Then run the following R code to install the `rethinking` package, and the other dependencies:
+
+```r
+renv::activate()
+renv::install(devtools)
+library(devtools)
+devtools::install_github("rmcelreath/rethinking")
+```
