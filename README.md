@@ -4,7 +4,15 @@ Project used to follow along with the Statistical Rethinking book by Richard McE
 
 # Setup
 
-First, follow Stan installation instruction at https://github.com/rmcelreath/rethinking?tab=readme-ov-file#installation
+## Conda environment setup
+
+Create conda environment:
+
+```sh
+conda env create -f environment.yml
+```
+
+## R package installation
 
 Then install the `renv` package if you haven't already:
 
